@@ -27,6 +27,7 @@ cout<<endl;
 int main(){
 int a,ch;
 do{
+  cout<<"hello\n";
   cout<<"Enter number for calculating factorial :";
   cin>>a;
   fact(a);
